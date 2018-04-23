@@ -1,0 +1,85 @@
+body{
+   background-color: green; 
+}
+#TOPO{
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(#0099ff,#00ffff);
+    float: left;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    border-bottom: 4px solid #FF9600;
+    float: left;
+}
+.eixo{
+    background: #ff0000;
+    width: 200px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #0066cc;
+    height: 480px;
+    margin-top: 60px;
+}
+
+.eixo p{
+    float: left;
+    margin-top: 10px;
+    background: #FF9600;
+    border: 2px solid #fff;
+    width: 150px;
+    text-align: center;
+    margin-left: 30px;
+    overflow: hidden;
+    animation-name: IMCResultado;
+    animation-duration: 1s;
+    height: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    line-height: 18px;
+}
+
+
+.eixa{
+    background: red;
+    width: 200px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #0066cc;
+    height: 480px;
+    margin-top: 60px;
+}
+
+.eixa p{
+    float: left;
+    margin-top: 10px;
+    background: #FF9600;
+    border: 2px solid #fff;
+    width: 150px;
+    text-align: center;
+    margin-left: 30px;
+    overflow: hidden;
+    animation-name: IMCResultado;
+    animation-duration: 1s;
+    height: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    line-height: 18px;
+}
+
+
+
+
+
+
+.Controle input{
+    height: 30px;
+    margin-left: 10px;
+}
+label{
+    margin-left: 27px;
+}
+
+
